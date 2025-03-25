@@ -13,7 +13,7 @@ This release includes 5 changes:
 - **Added test completion functionality**  
   Improved testing capabilities
 
-- **Added Docstrings to Main Functions**  
+- **Added docstrings to Main Functions**  
   Improved documentation for the fibonacci and factorial functions
 
 - **Added new documentation**  
