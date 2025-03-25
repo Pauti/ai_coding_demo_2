@@ -16,11 +16,8 @@ This release includes 5 changes:
 - **Added docstrings to Main Functions**  
   Improved documentation for the fibonacci and factorial functions
 
-- **Added new documentation**  
-  A new README file has been added with updated information
-
-- **Added project description and documentation**  
-  Improved project documentation with new README file
+- **Added project documentation**  
+  Updated the README file with new project description and documentation
 
 - **Improved Fibonacci calculation**  
   Simplified the Fibonacci function for better performance
